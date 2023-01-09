@@ -53,9 +53,13 @@ th {
     font-size: 24px;
     text-decoration: underline;
     border: none;
-    
-    
-    
+    }
+th:hover {
+    font-size: 48px;
+    font-weight: 900;
+    color: darkgreen;
+    text-decoration:double;
+    transition: 2s;
 }
 tbody {
     color:slateblue;
