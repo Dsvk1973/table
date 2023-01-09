@@ -40,6 +40,11 @@ font-size: 48px;
 text-shadow: 2px 2px rgb(223, 164, 164);
 
 }
+h2:target {
+    font-size: 64px;
+    font-weight: 900;
+    border: double 5px black;
+    color: white;}
 table{
     
    table-layout: fixed;
