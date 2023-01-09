@@ -56,7 +56,7 @@ th {
     }
 th:hover {
     font-size: 48px;
-    font-weight: 900;
+    font-weight: 800;
     color: darkgreen;
     text-decoration:double;
     transition: 2s;
