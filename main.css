@@ -1,0 +1,102 @@
+@font-face {
+    font-family: 'Righteous';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/righteous/v13/1cXxaUPXBpj2rGoU7C9WiHGF.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/lobster/v28/neILzCirqoswsqX9zoKmMw.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: 'Caveat';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/caveat/v17/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9eIWpYQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+  body {
+    background-image: url("canada-2704154_1920.jpg"); }
+h1 {
+    font-weight: 900;
+    text-shadow: 5px 5px gray;
+    font-size: 48px;
+    font-family: Lobster;
+    text-align:center;
+}
+
+h2 {
+color:blue;
+font-weight: 400;
+font-family: Righteous;
+font-size: 48px;
+text-shadow: 2px 2px rgb(223, 164, 164);
+
+}
+table{
+    
+   table-layout: fixed;
+   width: 100%;
+   background-color: white;
+   border-radius: 25%;
+}
+th {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-decoration: underline;
+    border: none;
+    
+    
+    
+}
+tbody {
+    color:slateblue;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16px;
+    
+   
+    
+}
+td {
+    text-align: center;
+    
+    
+    
+    text-decoration: none;
+}
+.colors {
+    
+}
+.red {
+    color: red;
+}
+.green {
+    color:green;
+}
+.blue {
+    color:blue;
+}
+.black {
+    color: black;
+}
+.helvicta {
+    font-family: Helvetica;
+}
+.lobster {
+    font-family: Lobster;
+}
+.caveat {
+    font-family: Caveat;
+}
+p {
+    font-weight: 900;
+    text-shadow: 2px 2px rgb(146, 116, 116);
+}
